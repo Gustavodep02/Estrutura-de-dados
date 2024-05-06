@@ -6,7 +6,7 @@ public class Musica {
 	public int duracao;
 	
 	public String toString() {
-        return "Pessoa { " +
+        return "Musica { " +
                "Nome: " + nome + ", " +"Nome do Artista: "+ nomeArtista + ", " +"Duracao: "+ duracao +
                " }";
     }
