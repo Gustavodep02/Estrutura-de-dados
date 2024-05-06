@@ -27,7 +27,7 @@ public class Main {
 			e.printStackTrace();
 		}
 		c.interseccao(lA,lB);
-	c.uniao(lA,lB);
+		c.uniao(lA,lB);
 	}
 	
 	
